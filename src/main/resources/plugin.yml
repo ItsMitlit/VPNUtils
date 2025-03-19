@@ -1,0 +1,7 @@
+name: VPNUtils
+version: '1.0.0'
+main: it.mitl.vpnutils.VPNUtils
+api-version: '1.21'
+authors: [ Mitlit ]
+description: A mod (intended for modpacks) to block users from running it on CurseForge launcher.
+website: dev.mitl.it
