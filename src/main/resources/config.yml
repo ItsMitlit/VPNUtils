@@ -1,0 +1,6 @@
+# VPNUtils Configuration (v1.0.0)
+# WARNING: You may need to delete the config.yml file to generate a new one if you are updating from a previous version.
+#          If this is the case, make sure to backup your old config.yml file before deleting it.
+
+# Block VPNs - If true, VPNs will be blocked. If false, VPNs will not be blocked.
+blockVPNs: true
